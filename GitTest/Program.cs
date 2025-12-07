@@ -2,6 +2,9 @@
 {
     public static void Main()
     {
-        Console.WriteLine("meth");
+        int a = 3;
+        Console.WriteLine("meth" + a);
+        string s = Console.ReadLine();
+        
     }
 }
